@@ -1,4 +1,4 @@
-// Variables
+// Variables is use 
 var x = 23;
 document.write(x);
 
