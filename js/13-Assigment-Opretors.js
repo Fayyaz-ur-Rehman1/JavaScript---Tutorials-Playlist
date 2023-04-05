@@ -20,4 +20,4 @@ document.write("<br>")
 var h = 98;
 h /= 78
 document.write(h)
-// += , -= , /= , %= , *= this is arthametic opreater
+// += , -= , /= , %= , *= this is AssigmentS opreater
